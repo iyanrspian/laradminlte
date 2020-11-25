@@ -10,6 +10,13 @@
 ## About Laravel
 
 Laravel 8 with AdminLTE v3 Templates
+
+*First step:
+- composer install
+- rename .env.example to .env (and configure it)
+- php artisan key:generate
+
+*Note
 - eg: database (mariadb), name of db 'laradminlte'
 
 ## License
